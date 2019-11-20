@@ -13,4 +13,6 @@ Phylogenetic tree analysis on Windows
 
 -2 最大似然法系统发育分析有两种选择: [IQTree](http://www.iqtree.org/) & [RAxML](https://github.com/stamatak/standard-RAxML/blob/master/WindowsExecutables_v8.2.10/)
 
+-3 系统发育树形的进一步美化, 可至 [iTOL](https://itol.embl.de/)
+
 ! 需要有 R语言 编译环境(提前安装R包: install.packages("parallel"))
