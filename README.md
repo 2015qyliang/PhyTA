@@ -9,13 +9,13 @@ Phylogenetic tree analysis on Windows
 
 - **解放双手 ==>> To Think!!!**
 
--1 序列对齐处理有两种选择: [mafft](https://mafft.cbrc.jp/alignment/software/) & [muscle](https://www.mybiosoftware.com/muscle-3-8-31-multiple-sequence-alignment.html)
+1 序列对齐处理有两种选择: [mafft](https://mafft.cbrc.jp/alignment/software/) & [muscle](https://www.mybiosoftware.com/muscle-3-8-31-multiple-sequence-alignment.html)
 
--2 修剪对齐序列: [trimAl](http://trimal.cgenomics.org/trimal)
+2 修剪对齐序列: [trimAl](http://trimal.cgenomics.org/trimal)
 
--3 最大似然法系统发育分析有两种选择: [IQTree](http://www.iqtree.org/) & [RAxML](https://github.com/stamatak/standard-RAxML/blob/master/WindowsExecutables_v8.2.10/)
+3 最大似然法系统发育分析有两种选择: [IQTree](http://www.iqtree.org/) & [RAxML](https://github.com/stamatak/standard-RAxML/blob/master/WindowsExecutables_v8.2.10/)
 
--4 系统发育树形的进一步美化, 可至 [iTOL](https://itol.embl.de/)
+4 系统发育树形的进一步美化, 可至 [iTOL](https://itol.embl.de/)
 
 ---
 
