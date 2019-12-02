@@ -1,7 +1,7 @@
 # PhyTA
 Phylogenetic tree analysis on Windows
 
-采用极简主义中的"One Step", 基于16S rDNA序列采用最大似然算法在 windows 系统平台中进行系统发育分析
+采用极简主义中的"One Step", 基于 DNA 和 Protein 序列采用最大似然算法在 windows 系统平台中进行系统发育分析
 
 ## **>> Just One Step <<**
 
