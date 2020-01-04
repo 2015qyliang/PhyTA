@@ -15,7 +15,7 @@ Phylogenetic tree analysis on Windows
 
 3 最大似然法系统发育分析有两种选择: [FastTree](http://www.microbesonline.org/fasttree/) & [IQTree](http://www.iqtree.org/) & [RAxML](https://github.com/stamatak/standard-RAxML/blob/master/WindowsExecutables_v8.2.10/) *(推荐使用 **FastTree & IQTree**, 两者速度快与 raxmlHPC)*
 
-4 系统发育树形的进一步美化, 可至 [iTOL](https://itol.embl.de/)
+4 系统发育树形的进一步美化, 可至 [iTOL](https://itol.embl.de/); 为快捷进行发育树的可视化调整, 增加了 [table2itol](https://github.com/mgoeker/table2itol) 的处理操作, BeautifyTreeITOL 文件夹中有相应的脚本和相关说明(相关数据的准备中尽量使用制表符进行分割)
 
 ---
 
